@@ -305,11 +305,10 @@ Possible future improvements include:
 
 ## Author
 
-**[Your Name]**
+NAME - Parth Kaushik
 
-**[Registration Number]**
+REGD NO - 25BAI10013
 
-**VIT**
 
 ## Academic Project
 
